@@ -1,6 +1,6 @@
 
 """Module docstring goes here."""
-  
+
 import logging
 import os
 import azure.functions as func
